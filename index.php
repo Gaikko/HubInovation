@@ -1,6 +1,7 @@
 <?php 
 
-    $_nome = "Gaikko";
+    $_msg = "EM CONSTRUÇÃO!";
+    $_nome = "Hub Inovation";
 
 ?>
 
@@ -13,8 +14,8 @@
     <title>Inicio - Hub Inovation</title>
 </head>
 <body>
-
-    
+    <h1><?php print($_msg) ?></h1>
+    <h1><?php print($_nome) ?></h1>
     
 </body>
 </html>
