@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/016d8b2f-02f6-4c92-9897-84ac9a63d686/AppServices/subscriptions/016d8b2f-02f6-4c92-9897-84ac9a63d686/resourceGroups/VM-Enilda_group/providers/Microsoft.Web/sites/hubinovation",
+    "appService.deploySubpath": "."
+}
